@@ -93,7 +93,7 @@ This dashboard helps organizations:
 > Add your dashboard screenshot below:
 
 ```markdown
-![SOC Threat Intelligence Dashboard](dashboard.png)
+![SOC Threat Intelligence Dashboard](dashboard.png.jpeg)
 ```
 
 ---
@@ -111,12 +111,3 @@ This dashboard helps organizations:
 * Cybersecurity Data Analysis
 * Data-Driven Decision Making
 
----
-
-## 👨‍💻 Author
-
-**Jaiganesh K**
-
-* LinkedIn: [Your LinkedIn Profile]
-* GitHub: [Your GitHub Profile]
-* Portfolio: [Your Portfolio Website]
