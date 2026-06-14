@@ -93,7 +93,7 @@ This dashboard helps organizations:
 > Add your dashboard screenshot below:
 
 ```markdown
-![SOC Threat Intelligence Dashboard](dashboard.png.jpeg)
+![SOC Threat Intelligence Dashboard](https://github.com/Jaiganesh-11/SOC-Threat-intelligence-Dashboard/blob/main/dashboard.png.jpeg)
 
 ## 🚀 Skills Demonstrated
 
