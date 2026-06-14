@@ -91,8 +91,6 @@ This dashboard helps organizations:
 ## 📷 Dashboard Preview
 
 > Add your dashboard screenshot below:
-> ![Uploading WhatsApp Image 2026-06-14 at 4.01.22 PM.jpeg…]()
-
 
 ```markdown
 ![SOC Threat Intelligence Dashboard](dashboard.png)
