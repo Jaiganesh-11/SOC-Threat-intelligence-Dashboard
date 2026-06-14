@@ -94,6 +94,7 @@ This dashboard helps organizations:
 
 ```markdown
 ![SOC Threat Intelligence Dashboard](https://github.com/Jaiganesh-11/SOC-Threat-intelligence-Dashboard/blob/main/dashboard.png.jpeg)
+---
 
 ## 🚀 Skills Demonstrated
 
