@@ -88,9 +88,6 @@ This dashboard helps organizations:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshot below:
 
 ## 📷 Dashboard Preview
 
